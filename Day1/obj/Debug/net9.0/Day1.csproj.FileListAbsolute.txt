@@ -12,3 +12,4 @@ C:\Users\adila\Desktop\Wipro\Day1\obj\Debug\net9.0\refint\Day1.dll
 C:\Users\adila\Desktop\Wipro\Day1\obj\Debug\net9.0\Day1.pdb
 C:\Users\adila\Desktop\Wipro\Day1\obj\Debug\net9.0\Day1.genruntimeconfig.cache
 C:\Users\adila\Desktop\Wipro\Day1\obj\Debug\net9.0\ref\Day1.dll
+C:\Users\adila\Desktop\Wipro\Day1\obj\Debug\net9.0\Day1.sourcelink.json
