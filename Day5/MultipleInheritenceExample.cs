@@ -1,46 +1,46 @@
-using school;
-public interface ICurricularActivities
-{
+// using School;
+// public interface ICurricularActivities
+// {
 
 
-    void Stream();
-}
+//     void Stream();
+// }
 
-public interface INonCurricularActivities
-{
+// public interface INonCurricularActivities
+// {
 
-    void Activities();
-}
+//     void Activities();
+// }
 
-public class Student : Person, ICurricularActivities, INonCurricularActivities
-{
+// public class Student : Person, ICurricularActivities, INonCurricularActivities
+// {
 
-    public int RollNumber { get; set; }
-    public void Study()
-    {
+//     public int RollNumber { get; set; }
+//     public void Study()
+//     {
 
-    }
-    public void Stream()
-    {
-        Console.WriteLine("Taken Science Stream");
-    }
+//     }
+//     public void Stream()
+//     {
+//         Console.WriteLine("Taken Science Stream");
+//     }
 
-    public void Activities()
-    {
-        Console.WriteLine("Sports - BasketBall");
-    }
+//     public void Activities()
+//     {
+//         Console.WriteLine("Sports - BasketBall");
+//     }
 
 
-    static void Main()
-    {
+//     static void Main()
+//     {
 
-        Student s = new Student();
-        Console.WriteLine("Enter the name of student");
-        string sname = Console.ReadLine();
-        s.Name = sname;
-        s.Study();
-        s.Display();
-        s.Stream();
-        s.Activities(); 
-    }
-}
+//         Student s = new Student();
+//         Console.WriteLine("Enter the name of student");
+//         string sname = Console.ReadLine();
+//         s.Name = sname;
+//         s.Study();
+//         s.Display();
+//         s.Stream();
+//         s.Activities(); 
+//     }
+// }
